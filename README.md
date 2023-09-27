@@ -2,6 +2,8 @@
 A Screen Saver built using SDL library of C++
 
 ScreenShot:
+
+
 ![Screenshot from 2023-09-27 15-19-56](https://github.com/Zephyrus-Aadil/MovingScreenSaver/assets/72851384/a273050a-ce6e-4057-82e6-17f0e8649d75)
 
 
